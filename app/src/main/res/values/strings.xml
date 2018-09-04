@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Executando video</string>
+    <string name="texto_titulo">Rick and Morty</string>
+    <string name="texto_temporada">2018 1 Temporada</string>
+    <string name="texto_resumo">Rick é um cientista que sempre sai com seu neto para fazer varias
+    aventuras que sempre sao do estilo sci-fi</string>
 </resources>
